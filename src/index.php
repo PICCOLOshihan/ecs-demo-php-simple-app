@@ -24,7 +24,7 @@
                         fclose($myfile);
                 ?>
                 <p>Container Metadata</p>
-                <?php cat $ECS_CONTAINER_METADATA_FILE;?>
+                <?php echo test;?>
 
             </div>
         </div>
