@@ -23,9 +23,6 @@
                         echo fread($myfile,filesize("/var/www/my-vol/date"));
                         fclose($myfile);
                 ?>
-                <p>Container Metadata</p>
-                <?php echo test;?>
-
             </div>
         </div>
 
