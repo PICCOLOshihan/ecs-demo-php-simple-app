@@ -23,6 +23,8 @@
                         echo fread($myfile,filesize("/var/www/my-vol/date"));
                         fclose($myfile);
                 ?>
+                <p>Container Metadata</p>
+                <?php cat $ECS_CONTAINER_METADATA_FILE;?>
 
             </div>
         </div>
