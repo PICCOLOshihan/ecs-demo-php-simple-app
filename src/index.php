@@ -28,6 +28,9 @@
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
         <script src="assets/js/bootstrap.min.js"></script>
+        <video width="600" height="400" controls>
+            <source src=" https://cf98fa7b2ee4450e.mediapackage.us-east-1.amazonaws.com/out/v1/740427060e844a4ba48756ea598b0c7d/index.m3u8" type="application/x-mpegURL">
+        </video>
     </body>
 
 </html>
