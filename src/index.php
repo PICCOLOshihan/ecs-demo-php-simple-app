@@ -28,9 +28,6 @@
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
         <script src="assets/js/bootstrap.min.js"></script>
-        <video width="600" height="400" controls>
-            <source src=" https://afc5b178d82c2f868c0a8cd8f6891c10.egress.mediapackage-vod.us-east-1.amazonaws.com/out/v1/c4c735c1682c40ae9b2623a5f1d8731d/7d88e9be0d58477e9b8a835a2c6bea40/7f6fba9fad5b4bf680fdab90f76202cb/index.m3u8" type="application/x-mpegURL">
-        </video>
     </body>
 
 </html>
