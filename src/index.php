@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Hello Patrick</h1>
+                <h1>Hello Patrick V2</h1>
                 <h2>This is a simple PHP App running on ECS with continuous integration/delivery</h2>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
